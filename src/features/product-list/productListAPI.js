@@ -4,5 +4,6 @@ export function fetchCount(amount = 1) {
 const data = await response.json()
 resolve({data})
   }
+
   )
 }
